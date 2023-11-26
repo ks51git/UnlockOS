@@ -1,3 +1,3 @@
-### Hello!
+### Привет!
 
-## This is Unlock OS based on Powerpoint!
+## Я вместе со своим другом создаю новую UnlockOS!
